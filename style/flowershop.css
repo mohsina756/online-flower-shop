@@ -1,0 +1,42 @@
+/* header related styels */
+.header{
+    background-color: rgba(229, 84, 115, 0.10);
+    height: 850px;
+    
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-img{
+    height: 650px;
+    width: 800px;
+}
+.btn-primary{
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+}
+.btn-primary,
+background-color{
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    margin: 15px;
+    border: 0;
+}
+.header-content{
+    width: 708px;
+   color: #272727;
+   margin: 15px;
+}
+
+/* main section styles */
+
+/* about section styles */
